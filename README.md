@@ -1,12 +1,12 @@
 <h1>Nimra Khan</h1>
-<p> Angular Developer | MEAN Stack Developer | Freelancer | UI Designer</p>
+<p> Angular Developer | MEAN Stack Developer | Freelancer | Designer</p>
 <br>
 <p> If I could describe myself in one word it would be Hungry! Hungry to improve myself, hungry to succeed, hungry to inspire and help others, and most of all I’m just plain hungry.
 I believe in the powers of a good community, discipline drives me and never give-up is my key.
 
 I am a final year Computer Science student and I am passionate about programming - love to talk about it!
 
-I offer expertise in full-stack development includes JavaScript, TypeScript, Java, Material Design Bootstrap, Angular 2+, Nodejs, HTML5, CSS3, SCSS, UI designing, Git, Agile, Heroku, etc.
+I offer expertise in full-stack development includes JavaScript, TypeScript, Java, Material Design Bootstrap, Angular 2+, ReactJs, Nodejs, HTML5, CSS3, SCSS, UI designing, Git, Agile, Heroku, etc.
 </p>
 <br>
 <p>
